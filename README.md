@@ -1,13 +1,13 @@
-# [Frontend Mentor -  Fylo dark theme landing page](https://eufraniodiogo.github.io/loopstudios-landing-page)
+# [Frontend Mentor -  Loopstudios Landing Page](https://eufraniodiogo.github.io/loopstudios-landing-page)
 
 
-**Link** [Frontend Mentor -  Fylo dark theme landing page](https://eufraniodiogo.github.io/loopstudios-landing-page)
+**Link** [Frontend Mentor -  Loopstudios Landing Page](https://eufraniodiogo.github.io/loopstudios-landing-page)
 
 ---
 
 [English](#english) | [Português](#portugues)
 
-![Design preview for the  Fylo dark theme landing page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the  Loopstudios Landing Page coding challenge](./design/desktop-preview.jpg)
 
 <h2 id="english">Welcome! 👋</h2>
 
